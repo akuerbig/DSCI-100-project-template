@@ -4,3 +4,10 @@ Template project repository for DSCI-100
 
 # Alexis Kuerbig
 ## 15606007
+
+
+
+
+# Data Description
+
+## Presented with data about video game players and the extent of their participation in the game "PlaiCraft", we aim to analyze the data to refine recruitment efforts of players and improve quality of players' gameplay.
