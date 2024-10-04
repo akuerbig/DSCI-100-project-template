@@ -22,7 +22,7 @@ Template project repository for DSCI-100
 
 # Data Description
 
-## Given a unique opportunity to work with and analyze data about video game players and the extent of their participation in the game "PlaiCraft", we aim to analyze the data to refine recruitment efforts of players while improving quality of players' gameplay. We are presented with data consisting of many variables such as a player:
+## Given a unique opportunity to work with and analyze data about video game players and the extent of their participation in the game "PlaiCraft", we aim to analyze the data to refine recruitment efforts of players while improving quality of players' gameplay. We are presented with data consisting of many variables such as player:
 
 * Age
 * Name
