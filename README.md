@@ -31,7 +31,7 @@ Template project repository for DSCI-100
 * Number of hours spent playing the game
 * Number of different sessions a player has spent playing Plaicraft *
 
-#### (* where session data includes the respective start and end times). 
+#### (* where session data includes the respective start and end times, and both qualitative and quantitative variables are included in this data). 
 &nbsp;
 &nbsp;
 &nbsp;
