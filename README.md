@@ -29,9 +29,12 @@ Template project repository for DSCI-100
 * Gender
 * Experience as a gamer (ranging from Amateur to Veteran)
 * Number of hours spent playing the game
-* Number of different sessions a player has spent playing Plaicraft
+* Number of different sessions a player has spent playing Plaicraft *
 
-## with session data including the respective start and end times. We are also given information about whether the player is (a):
+#### (* where session data includes the respective start and end times). 
+
+
+## We are also given information about whether the player is (a):
 
 * Subscriber to the game
 * The email associated with their user.
