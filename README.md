@@ -79,3 +79,8 @@ Template project repository for DSCI-100
 
 # <u> Explanation of Data & Visualization <u>
 ## We are able to load the data using a package such as pandas, then we can also import altair in order to graphically represent the data and visualize any trends and relationships between the variables. We could make a bar plot to separate the types of players into different groups, and then see the amount of cumulative hours each skill level has contributed to the collected data.
+
+
+
+
+# <u> Methods and Plan <u>
